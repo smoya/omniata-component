@@ -1,0 +1,24 @@
+{
+    "name": "smoya/omniata-component",
+    "description": "This is a lightweight library implementation for Omniata HTTP API",
+    "require-dev": {
+        "phpspec/phpspec": "*"
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "authors": [
+        {
+            "name": "Sergio Moya",
+            "email": "smoya89@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Smoya\\Component\\Omniata\\": "./"
+        }
+    }
+}
