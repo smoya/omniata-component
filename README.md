@@ -1,7 +1,7 @@
 Omniata Component
 =================
 [![Build Status](https://travis-ci.org/smoya/omniata-component.svg?branch=master)](https://travis-ci.org/smoya/omniata-component)
-[![Latest stable](http://img.shields.io/packagist/v/smoya/omniata-component.svg)](https://travis-ci.org/smoya/omniata-component)
+[![Latest stable](http://img.shields.io/packagist/v/smoya/omniata-component.svg)](https://packagist.org/packages/smoya/omniata-component)
 
 This is a lightweight library implementation for [Omniata HTTP API](https://omniata.atlassian.net/wiki/display/DOC/Integration+Guide).
 
